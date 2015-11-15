@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/jahde/travel-twist",
+  "authors": [
+    "jahde <jahde@classpass.com>"
+  ],
+  "description": "Y",
+  "main": "Y",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-bootstrap": "~0.14.3"
+  }
+}
